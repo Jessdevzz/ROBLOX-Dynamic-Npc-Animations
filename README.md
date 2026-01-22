@@ -30,10 +30,15 @@ External functions you can use
 I thought I'd make this a little bit cooler so twitter didn't kill me, so I added some external features!
 If you wanna manually control stuff or check what an NPC is doing, the module includes:
   Init() (ok well you have to do this one)
+  
   GetState(npc)
+  
   IsLoaded(npc)
+  
   GetPlayers(npc)
+  
   ForceLoad(npc)
+  
   ForceUnload(npc)
   
 If you want a placefile instead, YOU'RE IN LUCK!!!
