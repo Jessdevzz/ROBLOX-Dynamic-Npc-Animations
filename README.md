@@ -15,15 +15,23 @@ What it does
   
 Full setup (with transitions)
   If you want smooth transitions, you can use:
+  
     Idle
+    
     IdleToActive
+    
     ActiveIdle
+    
     ActiveToIdle
     
 Simple setup (no transitions)
+
   If you don’t want transition animations at all:
+  
     Idle only
+    
     Idle + ActiveIdle
+    
   (These NPCs will just swap instantly, no extra animations needed.)
 
 External functions you can use
