@@ -37,7 +37,7 @@ If you wanna manually control stuff or check what an NPC is doing, the module in
   ForceUnload(npc)
   
 If you want a placefile instead, YOU'RE IN LUCK!!!
-roblox.link.com.ok
+https://www.roblox.com/games/86582491164528/Dynamic-NPC-Animations-V2
 
 Notes
 Works best when your animations are longer than 0.1 seconds
