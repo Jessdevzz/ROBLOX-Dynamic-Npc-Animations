@@ -1,4 +1,5 @@
 Jess’s Dynamic NPC Animations V2
+
 This is my zone-based NPC animation script that makes NPCs feel more alive without you having to write 400 lines of “if player near then wave” code.
 NPCs will Idle when nobody’s around, then switch to Active vibes when players enter their zone.
 
